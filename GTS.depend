@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463127859 source:d:\levinhai\gts\main.cpp
+	<cstdlib>
+	<stdio.h>
+	<iostream>
+
